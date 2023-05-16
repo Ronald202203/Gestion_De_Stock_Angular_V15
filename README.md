@@ -1,6 +1,6 @@
-# Gest-Stock: gestion de stock
+## Gest-Stock: GESTION DE STOCK
 
-Gestionnde stock est une application qui mouvement le stock d'une compagnie en mettant en relation les clients et les fournisseurs et les produits de cette compagnie.
+Gestion de Stock : est une application qui mouvement le stock d'une compagnie en mettant en relation les clients et les fournisseurs et les produits de cette compagnie.
 
 ## Technologies
 - Angular 15
@@ -13,4 +13,4 @@ Gest-Stock n'est pas un projet open source. Mais il pourrais le devenir dans les
 
 ## Auteur
 
-Votre codeur : Ronald
+# Votre codeur : Ronald
