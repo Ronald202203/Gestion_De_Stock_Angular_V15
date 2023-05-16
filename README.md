@@ -1,27 +1,16 @@
-# GestionDeStockAngular
+# Gest-Stock: gestion de stock
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+Gestionnde stock est une application qui mouvement le stock d'une compagnie en mettant en relation les clients et les fournisseurs et les produits de cette compagnie.
 
-## Development server
+## Technologies
+- Angular 15
+- Bootstrap 5.2 
+- SCSS
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Contribuer au projet
 
-## Code scaffolding
+Gest-Stock n'est pas un projet open source. Mais il pourrais le devenir dans les annees avenir dans l'optique de donner l'opportunitéa d'autres, de contribuer avec leur propre fonctionnalité.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Auteur
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Votre codeur : Ronald
